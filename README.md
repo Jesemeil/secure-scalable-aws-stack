@@ -150,6 +150,10 @@ This architecture can be deployed using tools like:
 
 ---
 
+## Deployed Project URL: https://enum.africa/
+
+---
+
 ## 🏁 Conclusion
 
 This infrastructure was built with security, scalability, and speed at the forefront. It’s tailored for real-world production applications and aligns with AWS Well-Architected Framework best practices. Its decoupled and modular nature allows each component to be updated, scaled, and maintained independently—making it a future-ready solution.
